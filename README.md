@@ -15,7 +15,7 @@
 
 - 📫 Email me **prasidh.nandigodu@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/prasidhgowd](https://www.linkedin.com/in/prasidhgowd)
+- 📄 Know about my experiences [https://www.linkedin.com/in/prasidhgowd](https://www.linkedin.com/in/prasidhgowda)
 
 - ⚡ Fun fact **I Love to Code**
 
