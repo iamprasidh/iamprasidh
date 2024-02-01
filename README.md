@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_amprasidh" target="blank"><img src="https://img.shields.io/twitter/follow/i_amprasidh?logo=twitter&style=for-the-badge" alt="i_amprasidh" /></a> </p>
 
-- 🔭 I’m currently pursuing my [Bachelor's in](Computer Science and Engineering)
+- 🔭 I’m currently pursuing my Bachelor's on Computer Science and Engineering
 
 - 🌱 I’m currently learning **Full Stack Development**
 
@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [www.prasidhgowda.in](www.prasidhgowda.in)
 
-- 📫 How to reach me **prasidh.nandigodu@gmail.com**
+- 📫 Email me **prasidh.nandigodu@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/prasidhgowd](https://www.linkedin.com/in/prasidhgowd)
 
-- ⚡ Fun fact **Love to Code**
+- ⚡ Fun fact **I Love to Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
