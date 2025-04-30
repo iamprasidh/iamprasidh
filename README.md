@@ -1,5 +1,4 @@
-# 👋 Hi, I am Prasidh <img src="https://avatars.githubusercontent.com/u/121355523?s=400&u=edf26e6a79cddcdf98cdabf87c3920d6b1fea529&v=4" alt="Logo" height="30px"/>
-
+# 👋 Hi, I am Prasidh
 [![GitHub banner](https://media.licdn.com/dms/image/v2/D5616AQH84j2mFMWQwA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702176952769?e=1741219200&v=beta&t=Fj0b4tAoYNiGgBQJvflkeY1rKeXreBxAU09mGDQMq-o)](https://www.linkedin.com/in/iamprasidh/)
 
 **Aspiring Computer Science Engineer | Passionate about Coding and Problem Solving | Future Tech Innovator**
