@@ -1,5 +1,5 @@
 # 👋 Hi, I am Prasidh
-[![GitHub banner](https://media.licdn.com/dms/image/v2/D5616AQH84j2mFMWQwA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702176952769?e=1741219200&v=beta&t=Fj0b4tAoYNiGgBQJvflkeY1rKeXreBxAU09mGDQMq-o)](https://www.linkedin.com/in/iamprasidh/)
+[![GitHub banner](https://media.licdn.com/dms/image/v2/D5616AQH84j2mFMWQwA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702176952769?e=1751500800&v=beta&t=IafgmzGaWeUFseUyXVuKHnJrK66To0yv2lLb7VP85VA)](https://www.linkedin.com/in/iamprasidh/)
 
 **Aspiring Computer Science Engineer | Passionate about Coding and Problem Solving | Future Tech Innovator**
 
